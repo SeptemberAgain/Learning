@@ -1,5 +1,6 @@
 # Learning
 Code for food.
+
 [![Python](https://img.shields.io/badge/Python-3.5%2B-blue.svg)](https://www.python.org)
 
 ### 使用方法：
@@ -17,6 +18,8 @@ Code for food.
 十大经典排序的Python实现
 ![](https://i.imgur.com/7Oh1lj3.png)
 
+
 ## No.2 poro.py
 Poro自动签到获取流量
 ![](https://i.imgur.com/WehihBN.png)
+*需修改其中的用户名密码*
