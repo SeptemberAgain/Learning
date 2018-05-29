@@ -21,4 +21,4 @@ Code for food.
 
 ## No.2 poro.py
 Poro自动签到获取流量
-![](https://i.imgur.com/WehihBN.png)
+![](https://i.imgur.com/cyBDuUL.png)
