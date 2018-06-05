@@ -39,9 +39,9 @@ header = {
     Chrome/66.0.3359.170 Safari/537.36',
     'Accept-Encoding': 'gzip, deflate',
     'X-Requested-With': 'XMLHttpRequest',
-    'Host': 'poro.pw',}
+    'Host': 'poro.ws',}
 
-url = 'http://poro.pw/auth/login'
+url = 'http://poro.ws/auth/login'
 opener = getOpener(header)
 
 id = 'YourUserName'  # 你的用户名
@@ -60,7 +60,7 @@ myjson=json.loads(data)     #data必须是字符串类型的
 newjson=json.dumps(myjson,ensure_ascii=False)   #正常显示中文
 print(newjson)
 
-url = 'http://poro.pw/user/checkin'
+url = 'http://poro.ws/user/checkin'
 postData = urllib.parse.urlencode(postDict).encode()
 op = opener.open(url, postData)
 data = op.read()

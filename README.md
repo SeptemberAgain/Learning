@@ -21,5 +21,5 @@ Code for food.
 
 ## No.2 poro.py
 Poro自动签到获取流量
-![](https://i.imgur.com/cyBDuUL.png)
 
+在`id`处和`password`处修改好自己的用户名密码即可
