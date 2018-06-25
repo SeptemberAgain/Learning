@@ -1,0 +1,9 @@
+requests
+jieba
+numpy
+pandas
+bs4
+Crypto
+scipy
+wordcloud
+matplotlib
