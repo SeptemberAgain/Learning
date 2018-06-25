@@ -47,3 +47,14 @@ Poro自动签到获取流量
 ### 5. `lyricwordcloud.py`
 根据之前的歌词文件制作词云，背景图片，字体及色调均可根据注释做相应的调整
 ![](https://i.imgur.com/XcLSQ33.png)
+
+## No.4 `pyguitar`
+通过Karplus算法模拟吉他拨弦的声音，通过带不同的参数运行，有各种不同的效果：
+
+`python music.py --display`    	依次产生不同基频的声音，并绘制频谱图
+
+`python music.py --play`  		随机播放指定频率的声音，计算机“创作”一首歌曲
+
+`python music.py --piano` 		自定义键盘按键，按下发声，开始你的表演
+
+`python music.py --playasong` 	根据吉他谱，电脑为你弹奏一曲
