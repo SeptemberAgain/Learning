@@ -15,12 +15,12 @@ Code for food.
 <br>
 
 ## No.1 `10_sort_method`
-十大经典排序的Python实现
+### 十大经典排序的Python实现
 ![](https://i.imgur.com/7Oh1lj3.png)
 
 
 ## No.2 `auto_signup_poro`
-Poro自动签到获取流量
+### Poro自动签到获取流量
 
 在`id`处和`password`处修改好自己的用户名密码即可
 
@@ -49,7 +49,7 @@ Poro自动签到获取流量
 ![](https://i.imgur.com/XcLSQ33.png)
 
 ## No.4 `pyguitar`
-通过Karplus算法模拟吉他拨弦的声音，通过带不同的参数运行，有各种不同的效果：
+### 用Karplus算法模拟吉他拨弦的声音，带不同的参数运行，有不同的效果：
 
 `python music.py --display`    	依次产生不同基频的声音，并绘制频谱图
 
@@ -58,3 +58,14 @@ Poro自动签到获取流量
 `python music.py --piano` 		自定义键盘按键，按下发声，开始你的表演
 
 `python music.py --playasong` 	根据吉他谱，电脑为你弹奏一曲
+
+## No.5 `report_forms`
+### 利用Python处理财务报表，细节部分均使用正则表达式
+
+#### 可能有数百个类似的报表↓
+
+![](https://i.imgur.com/dQw5W9o.png)
+
+#### 提取有效数据并汇总↓
+
+![](https://i.imgur.com/Nb41Uql.png)
