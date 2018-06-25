@@ -9,7 +9,7 @@ Code for food.
 
 2. 下载代码
 
-3. 安装依赖：`pip install -r requirements.txt`
+3. 安装依赖：`pip install -r requirements.txt`（先切换到相应文件夹目录）
 
 4. 运行：`按名称运行各个py文件`
 <br>
